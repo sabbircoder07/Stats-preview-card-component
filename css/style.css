@@ -84,7 +84,7 @@ html {
       rgba(170, 92, 219, 0.65),
       rgba(170, 92, 219, 0.65)
     ),
-    url("./images/image-header-desktop.jpg");
+    url("../images/image-header-desktop.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -149,7 +149,7 @@ html {
         rgba(170, 92, 219, 0.65),
         rgba(170, 92, 219, 0.65)
       ),
-      url("./images/image-header-mobile.jpg");
+      url("../images/image-header-mobile.jpg");
     background-size: cover;
     background-position: center;
   }
