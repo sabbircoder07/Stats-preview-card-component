@@ -10,6 +10,18 @@ The designs were created to the following widths:
 
 ## Colors
 
+/*
+# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
 ### Primary
 
 - Very dark blue (main background): hsl(233, 47%, 7%)
@@ -144,6 +156,7 @@ html {
     grid-template-areas:
       "b"
       "a";
+    width: 90%;
   }
   .stats-card-info {
     grid-area: a;
@@ -166,6 +179,9 @@ html {
   .state-lists {
     flex-direction: column;
     gap: 2.8rem;
+  }
+  html {
+    font-size: 55.5%;
   }
 }
 
